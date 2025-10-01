@@ -8,7 +8,7 @@ import evaluate
 from concurrent.futures import ThreadPoolExecutor
 
 
-MODEL_DIR = "./t5-grammar-corrector"  # path to your trained model
+MODEL_DIR = "./model_building/t5-grammar-corrector"  # path to your trained model
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 MAX_LENGTH = 128
 

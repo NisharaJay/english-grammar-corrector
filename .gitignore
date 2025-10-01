@@ -208,3 +208,4 @@ __marimo__/
 *.env
 
 t5-grammar-corrector/pytorch_model.bin
+model_building/t5-grammar-corrector
