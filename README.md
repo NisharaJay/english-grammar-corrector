@@ -13,3 +13,7 @@ Python, PyTorch, Hugging Face Transformers
 ```bash
 git clone https://github.com/NisharaJay/english-grammar-corrector
 cd english-grammar-corrector
+```
+
+##### App Preview
+<img width="500" height="auto" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/fb438633-2ff2-40f9-a203-918f0db30075" />
